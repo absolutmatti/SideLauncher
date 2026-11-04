@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">SideLauncher</string>
+    
+    <!-- Navigation Destinations -->
+    <string name="nav_home">Home</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_watchlist">Watchlist</string>
+    <string name="nav_settings">Einstellungen</string>
+    
+    <!-- Home Screen -->
+    <string name="home_watchlist_watching">Weiterschauen</string>
+    <string name="home_watchlist_next">Als Nächstes</string>
+    <string name="home_view_all">Alle anzeigen</string>
+    <string name="home_favorites_title">Favoriten</string>
+    <string name="home_add_favorites">Favoriten hinzufügen</string>
+    <string name="home_watchlist_empty_prompt">Watchlist ist leer – Titel suchen &amp; hinzufügen</string>
+    <string name="status_watching_badge">Läuft</string>
+    <string name="status_watched_badge">Gesehen</string>
+    
+    <!-- Apps Screen -->
+    <string name="apps_title">Alle Apps</string>
+    <string name="apps_sort_label">Sortierung</string>
+    <string name="sort_az">A–Z</string>
+    <string name="sort_last_used">Zuletzt benutzt</string>
+    <string name="sort_custom">Eigene Reihenfolge</string>
+    <string name="apps_add_to_fav">Zu Favoriten hinzufügen</string>
+    <string name="apps_remove_from_fav">Aus Favoriten entfernen</string>
+    <string name="apps_info">App-Info</string>
+    <string name="apps_uninstall">Deinstallieren</string>
+    <string name="apps_hide">Ausblenden</string>
+    <string name="apps_unhide">Wieder einblenden</string>
+    <string name="apps_fav_limit_reached">Maximal 10 Favoriten möglich</string>
+    <string name="apps_move_mode_hint">← / → zum Verschieben, OK zum Festlegen, Zurück zum Abbrechen</string>
+    <string name="app_launch_failed">App konnte nicht gestartet werden</string>
+    <string name="apps_select_favorites_dialog">Favoriten auswählen</string>
+    
+    <!-- Watchlist Screen -->
+    <string name="tab_all">Alle</string>
+    <string name="tab_movies">Filme</string>
+    <string name="tab_series">Serien</string>
+    <string name="watchlist_add_btn">+ Hinzufügen</string>
+    <string name="watchlist_empty">Deine Watchlist ist leer</string>
+    <string name="watchlist_empty_filter">Keine Einträge für diese Kategorie</string>
+    <string name="watchlist_add_title_btn">Titel hinzufügen</string>
+    
+    <string name="status_not_watched">Nicht gesehen</string>
+    <string name="status_watching">Am Ansehen</string>
+    <string name="status_watched">Gesehen</string>
+    <string name="action_mark_watched">Als gesehen markieren</string>
+    <string name="action_mark_not_watched">Als nicht gesehen markieren</string>
+    <string name="action_delete">Löschen</string>
+    <string name="action_undo">Rückgängig</string>
+    <string name="item_deleted_msg">„%1$s“ gelöscht</string>
+    <string name="action_open_app">In App öffnen</string>
+    <string name="available_on">Verfügbar auf: %1$s</string>
+    <string name="search_hint">Film oder Serie suchen…</string>
+    <string name="search_in_watchlist">✓ In Watchlist</string>
+    <string name="search_added">Zur Watchlist hinzugefügt!</string>
+    <string name="search_no_results">Keine Treffer gefunden</string>
+    <string name="search_error">Suche fehlgeschlagen. Bitte Internetverbindung prüfen.</string>
+    <string name="retry">Erneut versuchen</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_cat_general">Allgemein</string>
+    <string name="settings_cat_appearance">Darstellung</string>
+    <string name="settings_cat_apps">Apps</string>
+    <string name="settings_cat_watchlist">Watchlist</string>
+    <string name="settings_cat_system">System</string>
+    <string name="settings_cat_about">Über</string>
+    
+    <!-- Settings items -->
+    <string name="pref_start_page">Startseite</string>
+    <string name="pref_time_format">Zeitformat</string>
+    <string name="pref_accent_color">Akzentfarbe</string>
+    <string name="pref_background">Hintergrund</string>
+    <string name="pref_collapse_sidebar">Sidebar automatisch einklappen</string>
+    <string name="pref_app_columns">Spaltenanzahl Apps</string>
+    <string name="pref_tmdb_language">TMDB-Sprache</string>
+    <string name="pref_provider_region">Region für Streaming-Anbieter</string>
+    <string name="pref_manage_hidden_apps">Ausgeblendete Apps verwalten</string>
+    <string name="pref_no_hidden_apps">Keine ausgeblendeten Apps</string>
+    <string name="pref_export_watchlist">Watchlist exportieren (JSON)</string>
+    <string name="pref_import_watchlist">Watchlist importieren (JSON)</string>
+    <string name="pref_reset_watchlist">Watchlist zurücksetzen</string>
+    <string name="pref_reset_watchlist_confirm">Möchtest du wirklich alle Einträge aus der Watchlist unwiderruflich löschen?</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="done">Fertig</string>
+    
+    <!-- System Quicklinks -->
+    <string name="sys_wifi">Netzwerk / WLAN</string>
+    <string name="sys_bluetooth">Bluetooth</string>
+    <string name="sys_display">Anzeige</string>
+    <string name="sys_sound">Ton</string>
+    <string name="sys_all_settings">Alle Einstellungen</string>
+    <string name="sys_home_settings">Standard-Launcher wählen</string>
+    
+    <!-- About & Attributions -->
+    <string name="tmdb_attribution_text">This product uses the TMDB API but is not endorsed or certified by TMDB.</string>
+    <string name="justwatch_attribution_text">Streaming-Verfügbarkeitsdaten bereitgestellt durch JustWatch via TMDB.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "SideLauncher",
+  "description": "Schlanker, moderner Android-TV-Launcher mit Sidebar-Navigation, Watchlist-Integration, Favoriten und vollständiger Fernbedienungs-/D-Pad-Steuerung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
